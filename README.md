@@ -24,7 +24,7 @@ A robust text classification pipeline built using Python and Scikit-Learn to det
 
 &#x20;  ```bash
 
-&#x20;  git clone \[https://github.com/YOUR-USERNAME/Spam-Filter-AI.git](https://github.com/YOUR-USERNAME/Spam-Filter-AI.git)
+&#x20;  git clone
 
 &#x20;  cd Spam-Filter-AI
 
